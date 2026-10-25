@@ -1,0 +1,1 @@
+{"user_id":"local-user-1","id":"dining-sequence-1","theme":"dining","events":[{"time":"2026-10-14T18:00:00+08:00","location":null,"weather":null,"event":"餐厅推荐","life_event":"用户主动请求餐厅建议","intent":"根据预算和饮食偏好推荐餐厅","sub_intents":[],"consumer":{"category_ids":["restaurant"]}}]}

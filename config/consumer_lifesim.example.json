@@ -1,0 +1,45 @@
+{
+  "llm": {
+    "model": "deepseek-flash",
+    "api_key_env": "DEEPSEEK_API_KEY",
+    "api_key_file": "config/secrets.local.json"
+  },
+  "profile": {
+    "user_id": "local-user-1",
+    "age": null,
+    "gender": null,
+    "income": null,
+    "employment": null,
+    "area": null,
+    "personality": [],
+    "preferences": [],
+    "preferences_value": {},
+    "consumer_features": {},
+    "feature_space": "unknown",
+    "consent": false
+  },
+  "retriever": {
+    "provider": "siliconflow",
+    "model_name": "BAAI/bge-m3",
+    "embedding_dim": 1024,
+    "api_key_env": "SILICONFLOW_API_KEY",
+    "api_key_field": "siliconflow_api_key",
+    "api_key_file": "config/secrets.local.json",
+    "device": "cpu",
+    "persist_directory": "runtime/lifesim_chroma_siliconflow",
+    "logger_silent": true
+  },
+  "amap": {
+    "api_key_env": "AMAP_WEB_SERVICE_KEY",
+    "api_key_file": "config/secrets.local.json",
+    "api_key_field": "amap_web_service_key"
+  },
+  "events_path": "data/examples/dining_events.jsonl",
+  "candidates_path": "data/restaurants/catalog.json",
+  "preference_dimensions_path": "LifeSim/upstream-lifesim/data/language_templates.json",
+  "store_path": "runtime/lifesim_consumer.sqlite3",
+  "max_retries": 2,
+  "top_k": 3,
+  "candidate_type": "restaurant",
+  "decision_mode": "lifesim_llm_recommendation"
+}

@@ -1,0 +1,132 @@
+{
+  "repository": "dfy37/lifesim",
+  "revision": "8880227ee3ed37036eae8607775ebb3eba5165ac",
+  "files": [
+    {
+      "path": "data/language_templates.json",
+      "upstream_blob_sha": "a2f956e5ade9e90d81b1d3f0090d1a96181c18d8",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "requirements.txt",
+      "upstream_blob_sha": "953592de84bb3f6a02d6a4abe6cff0147ecc17ee",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "src/engine/__init__.py",
+      "upstream_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "status": "existing_file_preserved"
+    },
+    {
+      "path": "src/engine/event_engine.py",
+      "upstream_blob_sha": "392466b2042826bb9f821a2d795821ec441fcc73",
+      "status": "existing_file_preserved"
+    },
+    {
+      "path": "src/engine/prompts/__init__.py",
+      "upstream_blob_sha": "505324fd67e8d8f3120a2b23e9794674e5accb03",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "src/engine/prompts/base.py",
+      "upstream_blob_sha": "e486a9816eb53c7c731b3585a467c55b240eddb8",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "src/engine/prompts/childcare.py",
+      "upstream_blob_sha": "bd24b5133aa1df5d1fcfcc706c18ccad7b3d5a27",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "src/engine/prompts/dining.py",
+      "upstream_blob_sha": "b3308ab7bc88d59e6c6ac15976d9ccf99b012f71",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "src/engine/prompts/education.py",
+      "upstream_blob_sha": "43b35a9c344322b33d40f704cf34b7ffa1952663",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "src/engine/prompts/elderlycare.py",
+      "upstream_blob_sha": "e9255ef57ce20bb813fbf981237d73096c796b2a",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "src/engine/prompts/entertainment.py",
+      "upstream_blob_sha": "73962e7052842f2d6dd7f3973102cdb8184fe9ac",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "src/engine/prompts/mental_health.py",
+      "upstream_blob_sha": "1358299e7e9ef3578d9458202214790557c6d14c",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "src/engine/prompts/sport_health.py",
+      "upstream_blob_sha": "832c2d13536f2caacb9617ce988ccb77688e767a",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "src/engine/prompts/travel.py",
+      "upstream_blob_sha": "9a8394fa7218f65e47a602d03bca0c33e0d288f1",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "src/models/__init__.py",
+      "upstream_blob_sha": "84f6c48170e934c34cd805443171a8fba15ec75d",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "src/models/base.py",
+      "upstream_blob_sha": "e288377e68dde34216e300f07f13075655dd5112",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "src/models/cloud.py",
+      "upstream_blob_sha": "5b02fa8b38c25173b91ae54bfb8640b5e46e2097",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "src/models/vllm.py",
+      "upstream_blob_sha": "dc0854b5d25c3346983c9a5dd2c7b4e2f6fe0f6e",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "src/profiles/__init__.py",
+      "upstream_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "src/profiles/profile_generator.py",
+      "upstream_blob_sha": "60527f868db2e507f08af29d7ba2778ee1eab01e",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "src/tools/__init__.py",
+      "upstream_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "src/tools/dense_retriever.py",
+      "upstream_blob_sha": "38631c1fd4964e46d47e97b48b092a150687cefc",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "src/tools/embedding_func.py",
+      "upstream_blob_sha": "3859d594d76091234be4618a13968f6de09bde1f",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "src/utils/__init__.py",
+      "upstream_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "status": "restored_from_upstream"
+    },
+    {
+      "path": "src/utils/utils.py",
+      "upstream_blob_sha": "f8ef30717f1f8524dd3a324a2f5ae923df2a4707",
+      "status": "restored_from_upstream"
+    }
+  ],
+  "license_files": []
+}

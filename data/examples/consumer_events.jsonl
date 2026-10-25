@@ -1,0 +1,1 @@
+{"user_id":"local-user-1","id":"consumer-sequence-1","theme":"dining","events":[{"time":"2026-10-14 18:30:00, Wednesday","location":"校园商店（演示场景）","weather":{"description":"晴"},"event":"消费需求","life_event":"想买一杯饮品","intent":"选择符合预算和偏好的饮品","sub_intents":[{"type":"explicit","description":"预算不超过30元"}],"consumer":{"budget_cny":30,"category_ids":["drinks"],"need":"想买一杯饮品"}}]}

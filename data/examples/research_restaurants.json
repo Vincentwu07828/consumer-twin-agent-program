@@ -1,0 +1,6 @@
+[
+  {"candidate_id":"demo-noodle","name":"暖暖面屋（示例）","price_cny":32,"source":"fictional_research_scenario","cuisines":["面食"],"distance_meters":800,"is_open":true,"ingredients":["鸡蛋","小麦","蔬菜"],"allergens":["鸡蛋","小麦"],"allergen_info_verified":true,"diet_tags":["蛋奶素"]},
+  {"candidate_id":"demo-green","name":"一碗清爽（示例）","price_cny":38,"source":"fictional_research_scenario","cuisines":["轻食"],"distance_meters":650,"is_open":true,"ingredients":["鸡肉","蔬菜","花生"],"allergens":["花生"],"allergen_info_verified":true,"diet_tags":[]},
+  {"candidate_id":"demo-home","name":"小满食堂（示例）","price_cny":48,"source":"fictional_research_scenario","cuisines":["家常菜"],"distance_meters":1200,"is_open":true,"ingredients":["牛肉","蔬菜","米饭"],"allergens":[],"allergen_info_verified":true,"diet_tags":[]},
+  {"candidate_id":"demo-japan","name":"日和小馆（示例）","price_cny":78,"source":"fictional_research_scenario","cuisines":["日式"],"distance_meters":1500,"is_open":true,"ingredients":["海鲜","米饭","鸡蛋"],"allergens":["海鲜","鸡蛋"],"allergen_info_verified":true,"diet_tags":[]}
+]

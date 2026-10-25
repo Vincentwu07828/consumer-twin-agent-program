@@ -1,0 +1,40 @@
+# Local credentials and settings
+config/*.local.json
+.env
+.env.*
+!.env.example
+
+# Python and build artifacts
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+!sites/mirra-consumer-demo/dist/
+
+# Private research records, downloaded data, and models
+runtime/
+data/raw/
+data/processed/
+models/
+reports/generated/
+*.sqlite3
+*.db
+
+# Local previews and non-product research scratch files
+.preview/
+LifeSim/.sizeprobe/
+LifeSim/tmp/
+LifeSim/output/
+LifeSim/arXiv-2603.12152v1/
+LifeSim/arXiv-2603.12152v1.tar.gz
+LifeSim/2603.12152v1.pdf
+LifeSim/汇报思路.txt
+sites/mirra-consumer-demo/.git/
+sites/mirra-consumer-demo/.openai/
+sites/mirra-consumer-demo/.preview/
+_github_publish/

@@ -1,0 +1,6 @@
+[
+  {"candidate_id":"demo-tea","name":"演示商品：茉莉茶","category_id":"drinks","price_cny":18,"in_stock":true,"source":"demo"},
+  {"candidate_id":"demo-coffee","name":"演示商品：咖啡","category_id":"drinks","price_cny":28,"in_stock":true,"source":"demo"},
+  {"candidate_id":"demo-premium","name":"演示商品：精品咖啡礼盒","category_id":"drinks","price_cny":128,"in_stock":true,"source":"demo"},
+  {"candidate_id":"demo-sold-out","name":"演示商品：售罄果汁","category_id":"drinks","price_cny":12,"in_stock":false,"source":"demo"}
+]
